@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "os_lab_2025/lab1/Отчет к лр1.md",
+                "file": "lab1/Отчет к лр1.md",
                 "mode": "source",
                 "source": false
               },
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -160,17 +160,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "b0ce3f81329ae8ec",
   "lastOpenFiles": [
+    "Pasted image 20250926220945.png",
+    "lab1/src/average.sh",
+    "lab1/text/lab1.md",
+    "lab1/Отчет к лр1.md",
+    "README.md",
     "Pasted image 20250926204601.png",
     "os_lab_2025/Pasted image 20250926204601.png",
     "os_lab_2025/Pasted image 20250926204346.png",
@@ -181,7 +186,6 @@
     "os_lab_2025/Pasted image 20250926195128.png",
     "os_lab_2025/Pasted image 20250926194924.png",
     "os_lab_2025/Pasted image 20250926194746.png",
-    "os_lab_2025/Pasted image 20250926194631.png",
     "os_lab_2025/lab1/Отчет к лр1.md",
     "os_lab_2025/lab1/src/bash_script.sh",
     "os_lab_2025/lab1/src/with_cake.txt",
