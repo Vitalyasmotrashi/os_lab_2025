@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab1/Отчет к лр1.md",
+                "file": "lab2/text/Отчет лр 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Отчет к лр1"
+              "title": "Отчет лр 2"
             }
           }
         ]
@@ -171,31 +171,33 @@
   },
   "active": "b0ce3f81329ae8ec",
   "lastOpenFiles": [
-    "lab2/src/revert_string/revert_string.c~",
-    "lab2/src/revert_string/revert_string",
-    "lab2/src/swap/swap",
-    "lab2/src/swap/swap.c~",
-    "lab2/src/swap/swap.o",
-    "lab2/src/swap/swap.h.gch",
-    "lab0/text/lab0.md",
+    "lab2/src/revert_string/nomer_3/rev_dyn",
+    "lab2/src/revert_string/nomer_3/rev_static",
+    "lab2/src/revert_string/nomer_3/librsd.so",
+    "lab2/src/revert_string/nomer_3/librss.so",
+    "lab2/src/revert_string/nomer_3/librss.a",
+    "lab2/src/revert_string/nomer_3/rev.o",
+    "lab2/src/revert_string/nomer_3/st5wj3WM",
+    "lab3/src/sequential_min_max",
+    "lab3/src/find_min_max.o",
+    "lab3/src/utils.o",
+    "Pasted image 20251011034223.png",
+    "Pasted image 20251011034121.png",
+    "Pasted image 20251011034112.png",
+    "Pasted image 20251011033916.png",
+    "Pasted image 20251011033825.png",
+    "lab2/src/revert_string/nomer_3/librs.so",
+    "Pasted image 20251011033800.png",
+    "Pasted image 20251011033722.png",
+    "Pasted image 20251011033114.png",
+    "Pasted image 20251011032739.png",
+    "lab2/text/lab2.md",
+    "lab2/text/Отчет лр 2.md",
     "lab1/Отчет к лр1.md",
-    "lab1/src/chtoto_iz_4go_nomera.sh~",
+    "lab0/text/lab0.md",
     "Pasted image 20250927123917.png",
-    "Pasted image 20250927123755.png",
-    "lab1/src/numbers.txt",
-    "lab1/src/chtoto_iz_4go_nomera.sh",
-    "lab1/src/average.sh~",
-    "Pasted image 20250927004155.png",
-    "Pasted image 20250926220945.png",
-    "lab1/src/average.sh",
     "lab1/text/lab1.md",
     "README.md",
-    "Pasted image 20250926204601.png",
-    "os_lab_2025/Pasted image 20250926204601.png",
-    "os_lab_2025/Pasted image 20250926204346.png",
-    "os_lab_2025/Pasted image 20250926203910.png",
-    "os_lab_2025/Pasted image 20250926203757.png",
-    "os_lab_2025/Pasted image 20250926202152.png",
     "os_lab_2025/lab1/Отчет к лр1.md"
   ]
 }
