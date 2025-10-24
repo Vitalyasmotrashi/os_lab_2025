@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab3/text/lab3.md",
+                "file": "lab4/src/MEMORY_EXPLANATION.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lab3"
+              "title": "MEMORY_EXPLANATION"
             }
           }
         ]
@@ -171,18 +171,20 @@
   },
   "active": "b0ce3f81329ae8ec",
   "lastOpenFiles": [
-    "lab3/src/exec_launcher",
-    "lab3/src/exec_launcher.c",
-    "lab3/src/parallel_min_max",
-    "lab3/src/sequential_min_max",
-    "lab3/src/find_min_max.o",
-    "lab3/src/utils.o",
-    "lab3/src/par_min_max",
-    "lab3/src/seq_min_max",
+    "lab4/text/otchet.md",
+    "lab3/text/lab3.md",
+    "lab4/src/MEMORY_EXPLANATION.md",
+    "lab4/src/process_memory",
+    "lab4/src/zombie_demo",
+    "lab4/src/zombie_demo.c",
+    "lab4/src/Makefile",
+    "lab4/src/parallel_29916_3.bin",
+    "lab4/src/parallel_29916_2.bin",
+    "lab4/src/parallel_29916_1.bin",
+    "lab4/src/parallel_29916_0.bin",
+    "lab4/src/parallel_min_max",
+    "lab4/src/utils.o",
     "lab2/text/Отчет лр 2.md",
-    "lab2/src/revert_string/nomer_3/rev_dyn",
-    "lab2/src/revert_string/nomer_3/rev_static",
-    "lab2/src/revert_string/nomer_3/librsd.so",
     "Pasted image 20251011034223.png",
     "Pasted image 20251011034121.png",
     "Pasted image 20251011034112.png",
