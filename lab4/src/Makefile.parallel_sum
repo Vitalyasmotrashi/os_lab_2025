@@ -1,0 +1,28 @@
+# Makefile для parallel_sum
+CC=gcc
+CFLAGS=-Wall -Wextra -O2 -I.
+
+# Основная цель
+all: parallel_sum
+
+# Сборка parallel_sum
+parallel_sum: utils.o sum_lib.o parallel_sum.c
+	$(CC) -o parallel_sum utils.o sum_lib.o parallel_sum.c $(CFLAGS) -lpthread
+
+# Компиляция utils.o
+utils.o: utils.c utils.h
+	$(CC) -o utils.o -c utils.c $(CFLAGS)
+
+# Компиляция sum_lib.o
+sum_lib.o: sum_lib.c sum_lib.h
+	$(CC) -o sum_lib.o -c sum_lib.c $(CFLAGS)
+
+# Очистка
+clean:
+	rm -f utils.o sum_lib.o parallel_sum
+
+# Запуск с примером параметров
+test: parallel_sum
+	./parallel_sum --threads_num 4 --seed 42 --array_size 100000
+
+.PHONY: all clean test
